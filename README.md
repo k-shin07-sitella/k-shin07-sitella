@@ -1,5 +1,5 @@
 ## K-Shin07/Sitella
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-shin07-sitella)](https://github.com/k-shin07-sitella/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-shin07-sitella&count_private=true)](https://github.com/k-shin07-sitella/github-readme-stats)
 
 <!--
 **k-shin07-sitella/k-shin07-sitella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
